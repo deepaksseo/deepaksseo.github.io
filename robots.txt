@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepaksseo.github.io/sitemap-index.xml
+Host: https://deepaksseo.github.io
